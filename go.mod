@@ -1,12 +1,12 @@
-module github.com/bogdanfinn/websocket
+module github.com/igor-lemon/websocket
 
 go 1.24.1
 
 retract v1.5.2 // tag accidentally overwritten
 
 require (
-	github.com/bogdanfinn/fhttp v0.6.9
 	github.com/bogdanfinn/utls v1.7.8-barnius
+	github.com/igor-lemon/fhttp v0.6.10-0.20261017214052-a61392fc6180
 	golang.org/x/net v0.38.0
 )
 
@@ -19,6 +19,6 @@ require (
 	golang.org/x/text v0.23.0 // indirect
 )
 
-//replace github.com/bogdanfinn/fhttp => ../fhttp
+//replace github.com/igor-lemon/fhttp => ../fhttp
 
 //replace github.com/bogdanfinn/utls => ../utls
