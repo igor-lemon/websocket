@@ -12,5 +12,6 @@ v1.5.6-barnius (`b96da2d51b4a117b6677587022fa4c59ca56629d`), on the branch
       grep -rlE 'github\.com/bogdanfinn/(fhttp|websocket)' --include='*.go' --include=go.mod . |
         xargs perl -pi -e 's#github\.com/bogdanfinn/(fhttp|websocket)\b#github.com/igor-lemon/$1#g'
 
-  then `go mod edit -require=github.com/igor-lemon/fhttp@<version>` and
+  then `git diff --name-only -- '*.go' | xargs gofmt -w`, which puts the
+  renamed imports back in order, `go mod edit -require=github.com/igor-lemon/fhttp@<version>` and
   `go mod tidy`.
