@@ -9,11 +9,11 @@ package main
 
 import (
 	"flag"
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/igor-lemon/fhttp"
 	"html/template"
 	"log"
 
-	"github.com/bogdanfinn/websocket"
+	"github.com/igor-lemon/websocket"
 )
 
 var addr = flag.String("addr", "localhost:8080", "http service address")

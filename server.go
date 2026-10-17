@@ -6,7 +6,7 @@ package websocket
 
 import (
 	"bufio"
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/igor-lemon/fhttp"
 	"net"
 	"net/url"
 	"strings"

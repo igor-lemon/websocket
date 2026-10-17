@@ -15,7 +15,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/bogdanfinn/websocket"
+	"github.com/igor-lemon/websocket"
 )
 
 var addr = flag.String("addr", "localhost:8080", "http service address")

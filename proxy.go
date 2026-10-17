@@ -10,7 +10,7 @@ import (
 	"context"
 	"encoding/base64"
 	"errors"
-	http "github.com/bogdanfinn/fhttp"
+	http "github.com/igor-lemon/fhttp"
 	"net"
 	"net/url"
 	"strings"

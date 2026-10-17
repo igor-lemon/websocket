@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	http "github.com/bogdanfinn/fhttp"
-	"github.com/bogdanfinn/fhttp/httptrace"
-	"github.com/bogdanfinn/utls"
+	http "github.com/igor-lemon/fhttp"
+	"github.com/igor-lemon/fhttp/httptrace"
+	"github.com/igor-lemon/utls"
 )
 
 // ErrBadHandshake is returned when the server response to opening handshake is
