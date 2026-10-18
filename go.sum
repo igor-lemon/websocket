@@ -4,8 +4,8 @@ github.com/bogdanfinn/utls v1.7.8-barnius h1:wRT83mP4hmuMM1/lIpLKKhzaEuyEKjux7VS
 github.com/bogdanfinn/utls v1.7.8-barnius/go.mod h1:o5v09jf+9ayMEfcP+8sssNdSMm278cyhBV25H8jb5Lw=
 github.com/cloudflare/circl v1.6.2 h1:hL7VBpHHKzrV5WTfHCaBsgx/HGbBYlgrwvNXEVDYYsQ=
 github.com/cloudflare/circl v1.6.2/go.mod h1:2eXP6Qfat4O/Yhh8BznvKnJ+uzEoTQ6jVKJRn81BiS4=
-github.com/igor-lemon/fhttp v0.6.10-0.20261018105736-e95fa01fae14 h1:9CxxWrAlqSvv2naz+PqnEzS/GA8MR2jFEUm+XksLKyg=
-github.com/igor-lemon/fhttp v0.6.10-0.20261018105736-e95fa01fae14/go.mod h1:Mmt5MazHNRtkQc2KeClCPdmC5Ek5oqwl7qUK1oQqr4M=
+github.com/igor-lemon/fhttp v0.6.10-0.20261018225256-a883624a8f5e h1:tjAU+2LsZHk4nRO4QIcOZHPyKp7YOb1lFBWwX2fyYmg=
+github.com/igor-lemon/fhttp v0.6.10-0.20261018225256-a883624a8f5e/go.mod h1:Mmt5MazHNRtkQc2KeClCPdmC5Ek5oqwl7qUK1oQqr4M=
 github.com/klauspost/compress v1.17.11 h1:In6xLpyWOi1+C7tXUUWv2ot1QvBjxevKAaI6IXrJmUc=
 github.com/klauspost/compress v1.17.11/go.mod h1:pMDklpSncoRMuLFrf1W9Ss9KT+0rH90U12bZKk7uwG0=
 github.com/xyproto/randomstring v1.0.5 h1:YtlWPoRdgMu3NZtP45drfy1GKoojuR7hmRcnhZqKjWU=
