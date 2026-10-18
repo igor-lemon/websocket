@@ -6,7 +6,7 @@ retract v1.5.2 // tag accidentally overwritten
 
 require (
 	github.com/bogdanfinn/utls v1.7.8-barnius
-	github.com/igor-lemon/fhttp v0.6.10-0.20261018003056-5a276db6fd8a
+	github.com/igor-lemon/fhttp v0.6.10-0.20261018091952-bd90b2824ae0
 	golang.org/x/net v0.38.0
 )
 
