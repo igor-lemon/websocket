@@ -5,7 +5,7 @@ go 1.24.1
 retract v1.5.2 // tag accidentally overwritten
 
 require (
-	github.com/igor-lemon/fhttp v0.6.10-0.20261025175811-083ec9dc789a
+	github.com/igor-lemon/fhttp v0.6.10-0.20261025181256-9381f02408df
 	golang.org/x/net v0.38.0
 )
 
