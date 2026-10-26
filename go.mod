@@ -5,14 +5,14 @@ go 1.24.1
 retract v1.5.2 // tag accidentally overwritten
 
 require (
-	github.com/igor-lemon/fhttp v0.6.10-0.20261025225113-7c24ff25476b
+	github.com/igor-lemon/fhttp v0.6.10-0.20261026204301-7c44dba01c5a
 	golang.org/x/net v0.38.0
 )
 
 require (
 	github.com/andybalholm/brotli v1.1.1 // indirect
 	github.com/cloudflare/circl v1.6.2 // indirect
-	github.com/igor-lemon/utls v1.7.8-barnius.0.20261025223421-d802e856f26a
+	github.com/igor-lemon/utls v1.7.8-barnius.0.20261026164924-161481babd43
 	github.com/klauspost/compress v1.17.11 // indirect
 	golang.org/x/crypto v0.36.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
